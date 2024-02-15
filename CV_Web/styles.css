@@ -1,0 +1,117 @@
+/*Our app*/
+body{
+    font-family: 'Gabriela', serif;
+    background-color: #FAFAFA;
+}
+.app-wrapper{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 60px auto;
+    background-color: #F0EFEF;
+    
+}
+
+/*left side style*/
+
+.left-side-container{
+    background-color: #a1a0a0;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.sidebar-image{
+    margin-top: 20px;
+    border-radius: 50%;
+    border: 1px solid #ddd;
+    max-width: 180px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.header-text{
+    padding-left: 30px;
+    font-size: 18px;
+    margin-top: 40px;
+    margin-bottom: -10px;
+}
+.header-text-name{
+    padding-left: 15px;
+    font-size: 21px;
+    line-height: normal;
+}
+
+.header-text-min{
+    font-size: 15px;
+    padding-left: 40px;
+    margin-top: -15px;
+    line-height: normal;
+    color: #313131;
+}
+
+.contacts-link{
+    text-decoration-line: underline;
+    color: #313131;
+    
+}
+
+.contact-container{
+    color: #313131;
+    font-size: 15px;
+}
+
+.design-text{
+    color: #313131;
+    font-size: 15px;
+}
+
+.skills-container{
+    margin-left: -20px;
+    color: #313131;
+    font-size: 15px;
+}
+
+
+.left-list{
+margin-top: -75px;
+margin-left: 150px;
+}
+
+.design-text-rom{
+margin-bottom: -15px;
+color: #313131;
+font-size: 15px;
+}
+
+.design-text-en{
+color: #313131;
+font-size: 15px;
+}
+
+.interests-container
+{
+    margin-top: 15px;
+    color: #313131;
+    font-size: 15px;
+}
+
+
+/* right side style */
+
+.right-side-container{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.time-container{
+    margin-top: -15px;
+    margin-left: 15px;
+    color: #313131;
+    font-size: 12px;
+}
+
+.description-container{
+    margin-top: -5px;
+}
